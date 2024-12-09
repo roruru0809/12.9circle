@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.35230.98
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "圓周函式", "圓周函式.csproj", "{00C18775-DE11-4D2A-B584-60B62936E200}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00C18775-DE11-4D2A-B584-60B62936E200}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00C18775-DE11-4D2A-B584-60B62936E200}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00C18775-DE11-4D2A-B584-60B62936E200}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00C18775-DE11-4D2A-B584-60B62936E200}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EE35EEF7-13F1-4CE1-9C4F-F57652D05087}
+	EndGlobalSection
+EndGlobal
